@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sherry\\.nuget\\packages\\": {}
+    "C:\\Users\\gavin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\sherry\\Documents\\DotNetCoreSample\\demo\\demo.csproj",
+      "projectUniqueName": "d:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\demo.csproj",
       "projectName": "demo",
-      "projectPath": "D:\\Users\\sherry\\Documents\\DotNetCoreSample\\demo\\demo.csproj",
-      "packagesPath": "C:\\Users\\sherry\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\sherry\\Documents\\DotNetCoreSample\\demo\\obj\\",
+      "projectPath": "d:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\demo.csproj",
+      "packagesPath": "C:\\Users\\gavin\\.nuget\\packages\\",
+      "outputPath": "d:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sherry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gavin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
