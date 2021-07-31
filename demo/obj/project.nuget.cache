@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0dyL0nRDmVG7a8vkFq1Qdi9YjS4UFCw10Wd82zv3HsoxXju9jFJ2527vGZ9Q2HjJvyY29S5W9RBSqyqRNyyf4g==",
+  "dgSpecHash": "ArpiHkiXLfMPQeVFUCwQENg1qhFVntIMOZji33a5vnnNxs9YSO37Mt/XKGPL17AOqYwICtFpZ0kSbEr0t/0UIA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\demo.csproj",
+  "projectFilePath": "D:\\SourceCode\\dotnetHttpcert\\demo\\demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

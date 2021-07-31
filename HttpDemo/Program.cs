@@ -34,7 +34,7 @@ namespace HttpDemo
                         kerstrel.ConfigureHttpsDefaults(https =>
                         {
                             var serverPath = AppDomain.CurrentDomain.BaseDirectory + "cert\\server.pfx";
-                            var serverCertificate = new X509Certificate2(serverPath, "123456789");
+                            var serverCertificate = new X509Certificate2(serverPath, "123456");
                             https.ServerCertificate = serverCertificate;
                             https.ClientCertificateMode = ClientCertificateMode.AllowCertificate;
                             https.SslProtocols = SslProtocols.Tls12 | SslProtocols.Tls | SslProtocols.None | SslProtocols.Tls11;

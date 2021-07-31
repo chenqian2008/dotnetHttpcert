@@ -18,11 +18,13 @@ namespace demo
                 ClientCertificateOptions = ClientCertificateOption.Manual,
                 ServerCertificateCustomValidationCallback = (message, cer, chain, errors) =>
                 {
+                    //正式环境注释
+                    return true;
                     return chain.Build(cer);
                 }
             };
             var path = AppDomain.CurrentDomain.BaseDirectory + "cert\\client.pfx";
-            var crt = new X509Certificate2(path, "123456789");
+            var crt = new X509Certificate2(path, "123456");
             handler.ClientCertificates.Add(crt);
 
             var client = new HttpClient(handler);

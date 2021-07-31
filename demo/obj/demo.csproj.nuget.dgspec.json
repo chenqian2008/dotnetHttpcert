@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\demo.csproj": {}
+    "D:\\SourceCode\\dotnetHttpcert\\demo\\demo.csproj": {}
   },
   "projects": {
-    "D:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\demo.csproj": {
+    "D:\\SourceCode\\dotnetHttpcert\\demo\\demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\demo.csproj",
+        "projectUniqueName": "D:\\SourceCode\\dotnetHttpcert\\demo\\demo.csproj",
         "projectName": "demo",
-        "projectPath": "D:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\demo.csproj",
-        "packagesPath": "C:\\Users\\gavin\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\gavin\\Documents\\DotNetCoreSample\\dotnetHttpcert\\demo\\obj\\",
+        "projectPath": "D:\\SourceCode\\dotnetHttpcert\\demo\\demo.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\dotnetHttpcert\\demo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gavin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
