@@ -33,7 +33,9 @@ namespace demo
             Console.WriteLine(response.IsSuccessStatusCode);
             var back = response.Content.ReadAsStringAsync().Result;
             Console.WriteLine(back);
+
+            Console.ReadLine();
         }
-      
+
     }
 }
